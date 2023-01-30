@@ -1,3 +1,5 @@
+# ToDo - Add ecryption to all user credenials
+
 import hashlib
 import os as tae
         
