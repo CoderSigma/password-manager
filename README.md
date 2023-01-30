@@ -1,13 +1,13 @@
 # password-manager
 password-manager
 
-###Set-up
+#Set-up
 
 ```
 first create a plain text file and put your sha256 encrypted password into admin.txt file and save it
 ```
 
-###Useage
+#Useage
 ```
 PASSWORD MANAGER by CS
 
