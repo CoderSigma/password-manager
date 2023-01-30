@@ -3,12 +3,12 @@ password-manager
 
 ###Set-up
 
-'''
+```
 first create a plain text file and put your sha256 encrypted password into admin.txt file and save it
-'''
+```
 
 ###Useage
-'''
+```
 PASSWORD MANAGER by CS
 
 Enter username: admin is default user
@@ -24,4 +24,4 @@ Would you like to add a new password or view existing ones
 
 (view, add,delete,update)
  type 'exit' if you want to quit::
-'''
+```
